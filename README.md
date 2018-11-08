@@ -1,4 +1,4 @@
-# 3in1Game
+# 3 in 1 Game Program
 Interactive games program with a graphical user interface (GUI) and computer AI.\
 The Games Program project is an implementation of a fully-functioning two-player games
 program, with all games being digital versions of well-known tabletop games.\
