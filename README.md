@@ -1,5 +1,5 @@
 # Interactive Games Program 3 in 1
-Interactive Games Program with a Graphical User Interface (GUI) and AI game engine.\
+Interactive Games Program with a Graphical User Interface (GUI) and AI game engine. \
 
 Game Program project is written in C with SDL library.\
 It provides fully-functioning implementation of three interactive two-player board games:\
