@@ -1,17 +1,29 @@
-# Interactive Game Program 3 in 1
-Interactive games program with a graphical user interface (GUI) and computer AI.\
-The Games Program project is an implementation of a fully-functioning two-player games
-program, with all games being digital versions of well-known tabletop games.\
-The program is a graphical program, presenting the user with visual menus and controls
-enabling the user to play a game from the selection of games the program provides, choose
-the game’s players (user or AI), and set the game’s difficulty.\
-The program consists of 3 two-player games, all with perfect information, and each
-providing the user with the option of selecting a user player or AI player for each of the two
-players of the game.\
-For AI, the minimax algorithm will be used. The same minimax algorithm is used for each
-game, where only the scoring function will differ – specific to each game and its game state.\
-The project provides a graphical user interface – such that the menus and controls for
-each game will be represented graphically, and the user will be able to interact with it with
-the keyboard and/or mouse.\
-The games program will be a generic and modular program, containing code such that
-games can be added and removed with minimal coding beyond that game’s specific logic.
+# Interactive Games Program 3 in 1
+Interactive Games Program with a Graphical User Interface (GUI) and AI game engine.\
+
+Game Program project is written in C with SDL library.\
+It provides fully-functioning implementation of three interactive two-player board games:\
+Connect Four, Reversi and Tic Tac Toe.\
+Each game included in the project is a digital version of a well-known tabletop game.\
+
+
+Game engine AI is based on Minimax algorithm 
+Graphical User Interface (GUI) and computer AI.\
+
+
+User can choose a game to play, select the players participating in the game and set game difficulty level. 
+Each player participating in the game can be set to user (human) or AI (computer).\
+
+The program consists of three two-player games with 'perfect information'. 
+Therefore, each player is perfectly informed of all the events that have previously occurred in the game.
+AI is designed using Minimax algorithm. 
+Same Minimax algorithm used for each game. 
+Main difference between the different game engines is the scoring function. 
+This function is specific to each game and its game state.\
+
+The program provides end user with Graphical User Interface (GUI). 
+Menus and controls for each game are represented graphically on the scren.
+The user can interact with each game using keyboard or/and mouse.\
+
+Games Program designed to be generic and modular program.
+It implemented in such a way that games can be added and removed with minimal coding efforts beyond the game-specific logic.
