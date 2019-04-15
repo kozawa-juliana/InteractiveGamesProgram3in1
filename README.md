@@ -3,8 +3,7 @@ Technologies Used:
 * C, C SDL Library, Linux
 
 Description:
-* Game Program with 3 interactive Table-Top Games: Connect 4, Reversi and Tic Tac Toe. 
-* Written in C. 
-* Implemented AI using decision-making Minimax Algorithm. 
+* Game program with three interactive Table-Top Games: Connect 4, Reversi and Tic Tac Toe. 
+* Developed using C with SDL library. 
+* Implemented AI using decision-making Minimax algorithm. 
 * Created GUI using C SDL library for displaying of menus and game progress to users.
-* Interactive Games Program with a Graphical User Interface (GUI) and AI game engine.
